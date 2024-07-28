@@ -1,0 +1,28 @@
+{
+  "env": {
+    "myIncludePath": [
+      "${workspaceFolder}/inc/**",
+      "/home/st/CompileTools/arm-rockchip830-linux-uclibcgnueabihf/arm-rockchip830-linux-uclibcgnueabihf/include/**"
+    ]
+  },
+
+  "configurations": [
+    {
+      "name": "Arm Linux",
+      "includePath": ["${myIncludePath}"],
+      "browse": {
+        "path": ["${myIncludePath}"]
+      },
+      "defines": [],
+      "compilerPath": "/home/st/CompileTools/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc",
+      "compilerArgs": [],
+      "intelliSenseMode": "linux-gcc-arm",
+      "cStandard": "c23",
+      "cppStandard": "c++23"
+    }
+  ],
+
+  "enableConfigurationSquiggles": true,
+
+  "version": 4
+}
