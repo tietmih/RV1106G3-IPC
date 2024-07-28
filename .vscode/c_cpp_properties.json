@@ -17,8 +17,8 @@
       "compilerPath": "/home/st/CompileTools/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc",
       "compilerArgs": [],
       "intelliSenseMode": "linux-gcc-arm",
-      "cStandard": "c23",
-      "cppStandard": "c++23"
+      "cStandard": "c17",
+      "cppStandard": "c++14"
     }
   ],
 
