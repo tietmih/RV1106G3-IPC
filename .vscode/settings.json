@@ -1,0 +1,10 @@
+{
+  "C_Cpp.formatting": "clangFormat",
+  "C_Cpp.clang_format_fallbackStyle": "Google",
+  "C_Cpp.clang_format_style": "GNU",
+  "C_Cpp.clang_format_sortIncludes": true,
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "editor.formatOnSaveMode": "modificationsIfAvailable",
+  "makefile.clearOutputBeforeBuild": true
+}
